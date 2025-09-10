@@ -6,8 +6,7 @@ permalink: /
 
 # Post Office Maps
 
-This site hosts country-level interactive maps of post-office locations (Portugal, Spain, Italy, Greece) as a transparent companion to my PhD thesis. Records are drawn from <a href="https://www.openstreetmap.org">OpenStreetMap</a>) via Overpass (`amenity=post_office`), standardized to point centroids, and published for exploration (Folium/Leaflet) and citation.
-
+This site hosts country-level interactive maps of post-office locations (Portugal, Spain, Italy, Greece) as a transparent companion to my PhD thesis. 
 Further info on methodological details and limitations can be found below.
 
 ## Interactive maps
