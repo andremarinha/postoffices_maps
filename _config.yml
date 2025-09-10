@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
 title: Post Offices in Southern Europe
-markdown: kramdown
+description: Interactive maps of post offices in Greece, Italy, Portugal, and Spain.
+url: "https://andremarinha.github.io"
+baseurl: "/postoffices_maps"
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
