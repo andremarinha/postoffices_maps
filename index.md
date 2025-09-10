@@ -1,12 +1,14 @@
 ---
-title: Post office maps
+title: Post Offices in Southern Europe 
 description: Interactive maps of post offices in Portugal, Spain, Italy, and Greece, with methods and sources.
 permalink: /
 ---
 
-# Post office maps
+# Post Office Maps
 
-These interactive maps support my thesis. Each page shows the post offices collected for a given country. See **Methods** and **Sources** below for notes on data collection and processing.
+This site hosts country-level interactive maps of post-office locations (Portugal, Spain, Italy, Greece) as a transparent companion to my PhD thesis. Records are drawn from <a href="https://www.openstreetmap.org">OpenStreetMap</a>) via Overpass (`amenity=post_office`), standardized to point centroids, and published for exploration (Folium/Leaflet) and citation.
+
+Further info on methodological details and limitations are provided below.
 
 ## Interactive maps
 - **Greece** — [Open map]({{ '/maps/greece_postoffices_map.html' | relative_url }})
