@@ -235,12 +235,11 @@ footer {
 details[open] {
   margin: 2em 1em 2em 0;
   padding: 0.1em 1em 1em;
-  font-style: normal;           /* change to normal if you prefer */
-  background-color: #f0f5ec;    /* <- new color (pale olive) */
+  font-style: normal;           
+  background-color: #9CBD95;    
   border: 1px solid #dfe7d3;
   border-radius: 8px;
 }
-
 
 details:not([open]) {
   margin: 0em 0em 1em 0;
