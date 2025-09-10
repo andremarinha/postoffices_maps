@@ -9,10 +9,10 @@ permalink: /
 These interactive maps support my thesis. Each page shows the post offices collected for a given country. See **Methods** and **Sources** below for notes on data collection and processing.
 
 ## Interactive maps
-- 🇵🇹 **Portugal** — [Open map]({{ '/maps/portugal_postoffices_map.html' | relative_url }})
-- 🇪🇸 **Spain** — [Open map]({{ '/maps/spain_postoffices_map.html' | relative_url }})
-- 🇮🇹 **Italy** — [Open map]({{ '/maps/italy_postoffices_map.html' | relative_url }})
-- 🇬🇷 **Greece** — [Open map]({{ '/maps/greece_postoffices_map.html' | relative_url }})
+- **Greece** — [Open map]({{ '/maps/greece_postoffices_map.html' | relative_url }})
+- **Italy** — [Open map]({{ '/maps/italy_postoffices_map.html' | relative_url }})
+- **Portugal** — [Open map]({{ '/maps/portugal_postoffices_map.html' | relative_url }})
+- **Spain** — [Open map]({{ '/maps/spain_postoffices_map.html' | relative_url }})
 
 ## Methodological Notes
 
