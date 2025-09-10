@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Post office maps
 description: Interactive maps of post offices in Portugal, Spain, Italy, and Greece, with methods and sources.
 permalink: /
