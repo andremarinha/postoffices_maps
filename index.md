@@ -40,7 +40,7 @@ These interactive maps support my thesis. Each page shows the post offices colle
 
 <details open>
 <summary><strong>Basemap/tiles</strong></summary>
-<p>© OpenStreetMap contributors — see <a href="https://www.openstreetmap.org/copyright">copyright &amp; attribution</a>.</p>
+<p>© OpenStreetMap contributors (see <a href="https://www.openstreetmap.org/copyright">copyright &amp; attribution</a>).</p>
 </details>
 
 <details>
