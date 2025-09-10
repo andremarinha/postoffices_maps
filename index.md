@@ -33,8 +33,18 @@ These interactive maps support my thesis. Each page shows the post offices colle
 
 <details>
   <summary><strong>Limitations:</strong></summary>
-  <p>Taking the OSM route/approach has several inherent limitations that need to be considered. First, OSM is crowdsourced, which means coverage may not be uniform, i.e., metropolitan areas tend to be well mapped, while rural areas may contain gaps or outdated entries. Second, the reliance on the `amenity=post_office` tag can produce discrepancies when compared with official registries. For example, in Portugal, OSM identified **985 post offices**, whereas a manual coding exercise based on the official [CTT website](https://tinyurl.com/36f7v6jz) yielded only **564 branches**. Part of this divergence likely arises from the inclusion in OSM of **“pontos CTT”** (partner outlets hosted in shops or other businesses), which provide limited services — mainly the sending and receiving of letters and parcels — rather than the full suite of services available in official **“balcões”** (CTT branches). Third, the dataset reflects OSM at the date of collection and does not capture subsequent openings, closures, or relocations. Finally, although national operators (Correos, Poste Italiane, CTT Portugal, Hellenic Post) maintain their own lists, these are not always openly accessible in harmonized formats. Despite these caveats, OSM offers a consistent, transparent, and reproducible dataset across multiple countries, making it suitable for comparative geographic analysis, provided the results are interpreted with these differences in mind.</p>
-</details> 
+
+  Taking the OSM route/approach has several inherent limitations that need to be considered. First, OSM is **crowdsourced**, which means coverage may not be uniform — metropolitan areas tend to be well mapped, while rural areas may contain gaps or outdated entries.  
+
+  Second, the reliance on the `amenity=post_office` tag can produce discrepancies when compared with official registries. For example, in Portugal, OSM identified **985 post offices**, whereas a manual coding exercise based on the official [CTT website](https://tinyurl.com/36f7v6jz) yielded only **564 branches**. Part of this divergence likely arises from the inclusion in OSM of **“pontos CTT”** (partner outlets hosted in shops or other businesses), which provide limited services — mainly the sending and receiving of letters and parcels — rather than the full suite of services available in official **“balcões”** (CTT branches).  
+
+  Third, the dataset reflects OSM at the date of collection and does not capture subsequent openings, closures, or relocations.  
+
+  Finally, although national operators (Correos, Poste Italiane, CTT Portugal, Hellenic Post) maintain their own lists, these are not always openly accessible in harmonized formats.  
+
+  Despite these caveats, OSM offers a consistent, transparent, and reproducible dataset across multiple countries, making it suitable for comparative geographic analysis, provided the results are interpreted with these differences in mind.
+</details>
+
 
 ## Sources
 
