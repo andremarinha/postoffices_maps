@@ -6,7 +6,8 @@ permalink: /
 
 # Post Office Maps
 
-This site hosts country-level interactive maps of post-office locations (Portugal, Spain, Italy, Greece) as a transparent companion to my PhD thesis. 
+This site hosts country-level interactive maps of post-office locations (Portugal, Spain, Italy, Greece) as a transparent companion to my PhD thesis.
+
 Further info on methodological details and limitations can be found below.
 
 ## Interactive maps
