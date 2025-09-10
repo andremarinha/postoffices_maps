@@ -19,7 +19,7 @@ Further info on methodological details and limitations can be found below.
 ## Methodological Notes
 
 <details>
-  <summary><strong>Data collection</strong></summary>
+  <summary><strong>Data Collection</strong></summary>
   <p>The spatial data on post offices were obtained from OpenStreetMap (OSM), an openly licensed, community-curated geographic database. Specifically, I used the Overpass API, which allows structured queries against OSM. For each of the countries under study — Greece, Italy, Portugal, and Spain — I retrieved all features tagged with <code>amenity=post_office</code> tag, which is the standard OSM classification for physical post office facilities and captures both stand-alone buildings and smaller service points. By relying on OSM rather than official operator registries, I ensured a harmonized, reproducible dataset across multiple countries, accessible without the administrative or licensing constraints of national postal operators.</p>
 </details>
 
